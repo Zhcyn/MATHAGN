@@ -1,0 +1,2 @@
+# MATHAGN
+We plan to build a game application with multiple math puzzles. The first math game has now been added. It's a two-person brain battle type. You need to use two numbers in the number plate to complete the number selection and also need to ensure that the opposite side cannot be found. The current project is still under development, if you encounter problems in the test, please contact me.
